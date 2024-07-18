@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Receitas</string>
+    <string name="affirmation1">Bolo De Cenoura</string>
+    <string name="affirmation2">Bolo De ChocoMorango</string>
+    <string name="affirmation3">Torta De Limão</string>
+    <string name="affirmation4">Torta De Morango</string>
+    <string name="affirmation5">Torta De Frango</string>
+    <string name="affirmation6">Pudim De Leite</string>
+    <string name="affirmation7">Pão De Queijo</string>
+    <string name="affirmation8">Croissant Macio</string>
+    <string name="affirmation9">Banoffe Deliciosa</string>
+    <string name="affirmation10">Paçoca De Amendoim</string>
+    <string name="title_receitas">Receitas</string>
+    <string name="ver">Ver Receita</string>
+    <string name="botao">Ver Receita</string>
+</resources>
